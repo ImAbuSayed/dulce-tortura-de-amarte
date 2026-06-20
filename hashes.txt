@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce tortura de amarte
+
+This log tracks the cryptographic history and versioning for the song **Dulce tortura de amarte** (dulce-tortura-de-amarte).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:19:05.184859 | `v1` | `f002d22e0ceb39500022826ecffc32da3a3f87baf0d4fa2242b4cfdfaa19607a` | `40dbb0a3b6a0354f1da0744b7b259633c3eda5830a53ea026771b264d4e37a11` | `2026-06-20_dulce-tortura-de-amarte-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

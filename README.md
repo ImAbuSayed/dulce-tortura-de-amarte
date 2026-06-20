@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-tortura-de-amarte/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dulce tortura de amarte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tortura-de-amarte/) |
+| **Get License** | [Commercial Licensing for Dulce tortura de amarte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tortura-de-amarte/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f002d22e0ceb39500022826ecffc32da3a3f87baf0d4fa2242b4cfdfaa19607a` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
